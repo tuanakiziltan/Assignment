@@ -1,0 +1,25 @@
+LOCUS       CAB40012.1               830 aa                     UNK 01-JAN-1980
+DEFINITION  Protein sequence.
+ACCESSION   CAB40012
+VERSION     CAB40012.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mnlqtstnqt igpyvirsei grgsfaivyk gkhtetnrvi siksvltkkl tkkllenles
+       61 eisilkeirh vhvvelidci kagrfihlvm eycslgdlsy firkrekfns ipslawinid
+      121 hppvykagln etlvrhftqq lasalqflrs rslihrdvkp qnlllqpppt aayleehpqf
+      181 vgspklpmlk ladfgfaryl qtssmaetlc gsplymapei lryekydaka dlwsvgavly
+      241 emavgkppfk apnhvellrr iqkakdvikf peeafihpdi ktlicallkq npadridydg
+      301 ffssivvttp lddastltgs diqdavkein ipssspayit dffpksnpga pappggllrq
+      361 afqaqgssiq pseitgrrvp hryaqdgntl pytpvfppes apaasifppr ltskqpipma
+      421 spakltsdts nkssayvvvd hhpiisstql snesltheqs ingnspspne gvfqgsfspe
+      481 sapvnnhafp htsrmqipym kpnafpsnpt yiastpvtql rrafeqatah vpqsgggarn
+      541 ksaleralnv anarlnevvv dgmtdngnts lptkesnldn nvniiqpslp dtgkrlldvl
+      601 esiamksnsv yhlaevklaq iipslsdemk pgdtlldrpl tpfslvmlak esyvlyerdi
+      661 ellqvafdgv aafwanseer aspdcqqaie wfrqrysesl eksqflreii isqsaahslp
+      721 ttkpvsasql iyhraldlsr naatselsgn daqaclqnyr laahllesll esnfstpdga
+      781 ndsnnsvtir nlialitkrq ellqskqiqa nvankvtesv akitlapnla
+//

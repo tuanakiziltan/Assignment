@@ -1,0 +1,14 @@
+LOCUS       CAB57444.1               154 aa                     UNK 01-JAN-1980
+DEFINITION  Protein sequence.
+ACCESSION   CAB57444
+VERSION     CAB57444.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mvravavlrg dskvsgvvtf eqvdqnsqvs vivdlvgnda nakrgfhihq fgdntngcts
+       61 agphfnpegk thgdrtaavr hvgdlgnles daqgnikttf sdsvislfga nsiigrtivi
+      121 hageddlgkg tseeslktgn agarnacgvi giav
+//
